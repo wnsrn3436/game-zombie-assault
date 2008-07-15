@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite0" type="RESOURCE"/>
+  <resource name="sprite10" type="RESOURCE"/>
+  <resource name="sprite11" type="RESOURCE"/>
+  <resource name="sprite13" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+  <resource name="돌" type="RESOURCE"/>
+  <resource name="칼" type="RESOURCE"/>
+  <resource name="피2" type="RESOURCE"/>
+  <resource name="sprite19" type="RESOURCE"/>
+  <resource name="spr_Unit_01" type="RESOURCE"/>
+  <resource name="spr_Unit_02" type="RESOURCE"/>
+  <resource name="spr_Unit_03" type="RESOURCE"/>
+  <resource name="건물" type="RESOURCE"/>
+  <resource name="바이러스" type="RESOURCE"/>
+  <resource name="개" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="딱총" type="RESOURCE"/>
+  <resource name="sound2" type="RESOURCE"/>
+  <resource name="칼" type="RESOURCE"/>
+  <resource name="죽음" type="RESOURCE"/>
+</resources>

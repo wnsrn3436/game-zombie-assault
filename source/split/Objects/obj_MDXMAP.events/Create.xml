@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="CREATE" id="0">
+  <actions>
+    <action id="603" library="1">
+      <!--action name: Code-->
+      <kind>CODE</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>CODE</actionType>
+      <functionName/>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="STRING">scr_MDXMAP_Init(5,325,150,150);
+scr_MDXMAP_Settings(c_black,.8,c_white,1,c_yellow,.1,c_white,1,true,0,true,true);
+scr_MDXMAP_Object_Add(object1,1,c_yellow,1);
+scr_MDXMAP_Object_Add(object7,0,c_red,.9);
+scr_MDXMAP_Object_Add(ehf,0,c_maroon,.5);
+scr_MDXMAP_Object_Add(rjs,1,c_yellow,9);
+scr_MDXMAP_Object_Add(tk,0,c_yellow,9);</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>

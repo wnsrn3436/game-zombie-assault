@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="object1" type="RESOURCE"/>
+  <resource name="object2" type="RESOURCE"/>
+  <resource name="object3" type="RESOURCE"/>
+  <resource name="음악" type="RESOURCE"/>
+  <resource name="object7" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+  <resource name="ehf" type="RESOURCE"/>
+  <resource name="object11" type="RESOURCE"/>
+  <resource name="object12" type="RESOURCE"/>
+  <resource name="피2" type="RESOURCE"/>
+  <resource name="obj_MDXMAP" type="RESOURCE"/>
+  <resource name="object21" type="RESOURCE"/>
+  <resource name="rjs" type="RESOURCE"/>
+  <resource name="tk" type="RESOURCE"/>
+</resources>
